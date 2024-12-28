@@ -1,2 +1,2 @@
-# sample-repo
-sample repo to practice git
+# Github
+Github repo to practice git and other work
